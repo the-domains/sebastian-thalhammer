@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T22:56:47.603Z'
-dateModified: '2015-12-12T22:54:33.302Z'
+datePublished: '2015-12-12T23:01:26.641Z'
+dateModified: '2015-12-12T23:01:20.479Z'
 title: Coaching
 author: []
 sourcePath: _posts/2015-12-12-fortschritt.md
@@ -24,7 +24,9 @@ _type: WebPage
 ---
 # Coaching
 
-Du hast gerade eine brillante Idee und recherchierst Stunden über Stunden, um herauszufinden ob die Welt das brauchst und wie du das umsetzen könntest. die nächsten Wochen bist du total enthusiastisch und voll begeistert. Schlägst dir die Nächte um die Ohren und recherchierst was das Zeug hält. Irgendwie gehst du noch zur Arbeit, aber das schaffst du ja sowieso mit links, schließlich langweilst du dich dort schon wieder.
+Du hast gerade eine brillante Idee und recherchierst Stunden über Stunden, um herauszufinden ob die Welt das brauchst und wie du das umsetzen könntest. die nächsten Wochen bist du total enthusiastisch und voll begeistert. 
+
+Schlägst dir die Nächte um die Ohren und recherchierst was das Zeug hält. Irgendwie gehst du noch zur Arbeit, aber das schaffst du ja sowieso mit links, schließlich langweilst du dich dort schon wieder.
 
 Jede Nacht im Flow.
 
