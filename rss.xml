@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sebastian Thalhammer]]></title>
+        <description><![CDATA[Sebastian Thalhammer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Dec 2015 11:24:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Über Sebastian Thalhammer]]></title>
+            <description><![CDATA[<article><h1>Über Sebastian Thalhammer</h1><p>Ich bin Sebastian, ein 28jähriger Kerl aus Österreich. Ich bin weder berühmt, habe kein tolles Auto, oder bin sonst irgendwie besonders. Was ich allerdings habe, ist das brennendes Verlangen die Welt zu verändern.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea881ad8-2f60-4769-994d-e7b2f93a2670.jpg"></article>]]></description>
+            <link>undefineduber-sebastian-thalhammer/index.html</link>
+            <guid isPermaLink="false">f1dfc4cc-a5c7-47e8-a027-b967d8d617f7</guid>
+            <pubDate>Sat, 12 Dec 2015 11:24:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
