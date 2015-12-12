@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sebastian Thalhammer]]></title>
         <description><![CDATA[Sebastian Thalhammer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sebastian-thalhammer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 11:24:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 22:34:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sebastian-thalhammer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Über Sebastian Thalhammer]]></title>
-            <description><![CDATA[<article><h1>Über Sebastian Thalhammer</h1><p>Ich bin Sebastian, ein 28jähriger Kerl aus Österreich. Ich bin weder berühmt, habe kein tolles Auto, oder bin sonst irgendwie besonders. Was ich allerdings habe, ist das brennendes Verlangen die Welt zu verändern.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea881ad8-2f60-4769-994d-e7b2f93a2670.jpg"></article>]]></description>
-            <link>undefineduber-sebastian-thalhammer/index.html</link>
+            <title><![CDATA[Wie reagierst du, wenn wir auf einen Eisberg zusteuern?]]></title>
+            <description><![CDATA[<article><h1>Wie reagierst du, wenn wir auf einen Eisberg zusteuern?</h1><p>Wenn du den Kurs eines Schiffes ändern möchtest das auf Anschlag fährt, musst du nur eines machen: Vom Gas runtergehen und bremsen. Ansonsten würde es kaum einlenken. Frag den Kapitän der Titanic! Mein Eisberg war eine Verkettung von Ereignissen der letzten Monate, u.a. der Zusammenbruch meiner Ambitionen aufgrund fehlender Resonanz und der unerwartete Tod einer meiner Mentoren.</p><img src="https://cdn-images-1.medium.com/max/800/1*BObvNJqR_tbIF5OWyTxoYg.jpeg"></article>]]></description>
+            <link>https://medium.com/@Sebastian_Thalhammer/wie-reagierst-du-wenn-wir-auf-einen-eisberg-zusteuern-e6d57a567c20#.72a2ahn63</link>
+            <guid isPermaLink="false">e9f6246c-ab70-47d8-b3c0-aba13d48c440</guid>
+            <pubDate>Sat, 12 Dec 2015 22:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meine Geschichte]]></title>
+            <description><![CDATA[<article><h1>Meine Geschichte</h1><p>Ich bin Sebastian, ein 28jähriger Kerl aus Österreich. Ich bin weder berühmt, habe kein tolles Auto, oder bin sonst irgendwie besonders. Was ich allerdings habe, ist das brennendes Verlangen die Welt zu verändern.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ac6e791e6fed8079de3158c76e67260840fea0c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sebastian-thalhammer/uber-sebastian-thalhammer/index.html</link>
             <guid isPermaLink="false">f1dfc4cc-a5c7-47e8-a027-b967d8d617f7</guid>
             <pubDate>Sat, 12 Dec 2015 11:24:32 GMT</pubDate>
         </item>
