@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T22:46:13.753Z'
-dateModified: '2015-12-12T22:45:55.745Z'
-title: Fortschritt
+datePublished: '2015-12-12T22:56:47.603Z'
+dateModified: '2015-12-12T22:54:33.302Z'
+title: Coaching
 author: []
+sourcePath: _posts/2015-12-12-fortschritt.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-12-fortschritt.md
-published: true
 url: fortschritt/index.html
 _type: WebPage
 
 ---
+# Coaching
+
 Du hast gerade eine brillante Idee und recherchierst Stunden über Stunden, um herauszufinden ob die Welt das brauchst und wie du das umsetzen könntest. die nächsten Wochen bist du total enthusiastisch und voll begeistert. Schlägst dir die Nächte um die Ohren und recherchierst was das Zeug hält. Irgendwie gehst du noch zur Arbeit, aber das schaffst du ja sowieso mit links, schließlich langweilst du dich dort schon wieder.
 
 Jede Nacht im Flow.
@@ -30,7 +32,7 @@ Es ist ein herrlicher Zustand. Du lernst ständig dazu und erweiterst deinen Hor
 
 Dein Umfeld ist fasziniert von dir als Person, weil du schon so viel im Leben gemacht hast und in gewisser Weise erfüllt dich das mit Stolz. Manchmal hast du aber das Gefühl, dass sie dir mehr zutrauen als du selbst. "Mach doch dies oder mach doch das, das kannst du ja so gut" -- von diesen guten Ratschlägen kannst du ein Lied singen. Doch was du willst, ist, dass deine Idee Formen annimmt und dich weiterhin zündet.
 
-# Fortschritt
+Fortschritt
 
 Über Wochen beschäftigst du dich weiter mit dem Thema und bist Feuer und Flamme.
 
