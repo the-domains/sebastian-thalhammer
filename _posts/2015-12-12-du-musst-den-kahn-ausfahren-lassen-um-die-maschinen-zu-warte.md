@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T23:15:02.240Z'
-dateModified: '2015-12-12T23:14:49.085Z'
+datePublished: '2015-12-13T08:55:32.396Z'
+dateModified: '2015-12-13T08:55:05.793Z'
 title: Du musst den Kahn ausfahren lassen um die Maschinen zu warten
 author: []
+sourcePath: _posts/2015-12-12-du-musst-den-kahn-ausfahren-lassen-um-die-maschinen-zu-warte.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-12-du-musst-den-kahn-ausfahren-lassen-um-die-maschinen-zu-warte.md
-published: true
-_type: Blurb
+url: du-musst-den-kahn-ausfahren-lassen-um-die-maschinen-zu-warte/index.html
+_type: Article
 
 ---
 # **Du musst den Kahn ausfahren lassen um die Maschinen zu warten**
