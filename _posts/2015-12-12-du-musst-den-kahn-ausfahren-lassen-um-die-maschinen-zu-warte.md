@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T08:55:32.396Z'
-dateModified: '2015-12-13T08:55:05.793Z'
+datePublished: '2015-12-13T10:52:48.946Z'
+dateModified: '2015-12-13T10:52:05.627Z'
 title: Du musst den Kahn ausfahren lassen um die Maschinen zu warten
 author: []
 sourcePath: _posts/2015-12-12-du-musst-den-kahn-ausfahren-lassen-um-die-maschinen-zu-warte.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # **Du musst den Kahn ausfahren lassen um die Maschinen zu warten**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/881fe4f1-28be-4709-a103-25f6e9923333.jpg)
 
 2015 war voll von bedeutsamen Entwicklungen. Ich war außer mir vor rasendem Aktivismus. ;-)
 
