@@ -1,21 +1,21 @@
+layout_spectrum: 0.5069935487255933
+typography_spectrum: 0.5002416532721813
+color:
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+  brandStrength: 0.05455209594865394
+  lightness: 0.24122973540484313
+  saturation: 0.21010087972018165
+  rhythmicContrast: 0.5617132105969704
 name: Sebastian Thalhammer
-layout_spectrum: 0.25977
-typography_spectrum: 0.38062
 cta: {}
 analytics:
   google: UA-86102048-1
 opengraph: {}
-color:
-  brandColors:
-    - '#ffffff'
-    - '#301631'
-    - '#c8c8c8'
-    - '#cf7813'
-    - '#027178'
-  brandStrength: 0
-  lightness: 0.25
-  saturation: 1
-  rhythmicContrast: 0.5
 purpose:
   - type: external
     label: Work with Me
