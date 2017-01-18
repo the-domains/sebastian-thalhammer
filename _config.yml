@@ -1,4 +1,9 @@
+name: Sebastian Thalhammer
+layout_spectrum: 0.25977
 typography_spectrum: 0.38062
+cta: {}
+analytics: {}
+opengraph: {}
 color:
   brandColors:
     - '#ffffff'
@@ -10,21 +15,19 @@ color:
   lightness: 0.25
   saturation: 1
   rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.25977
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Sebastian Thalhammer
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
+purpose:
+  - type: external
+    label: Work with Me
+    url: 'https://calendly.com/thalhammer-sebastian/work-with-sebastian-thalhammer'
 title: Sebastian Thalhammer
-description: High Performance Coach
-purpose: []
+description: The Rainmaker
+navigation:
+  - name: About the Rainmaker
+    id: 050468a0-087d-4b41-ae25-32e77dc3ad0a
+    type: content
+content: []
+github: true
+author:
+  name: Sebastian Thalhammer
+  email: sebastian@projektphoenix.com
+  url: www.sebastianthalhammer.com
