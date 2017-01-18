@@ -2,7 +2,8 @@ name: Sebastian Thalhammer
 layout_spectrum: 0.25977
 typography_spectrum: 0.38062
 cta: {}
-analytics: {}
+analytics:
+  google: UA-86102048-1
 opengraph: {}
 color:
   brandColors:
@@ -31,3 +32,4 @@ author:
   name: Sebastian Thalhammer
   email: sebastian@projektphoenix.com
   url: www.sebastianthalhammer.com
+url: 'http://sebastianthalhammer.com'
