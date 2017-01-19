@@ -1,6 +1,6 @@
 ---
 title: The Business Rainmaker
-dateModified: '2017-01-19T09:42:55.356Z'
+dateModified: '2017-01-19T09:43:11.472Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,7 +12,7 @@ description: >-
   channels, sometimes by connecting with people in non-traditional or hidden
   markets, and sometimes by prompting current clients to spend more money.
 via: {}
-datePublished: '2017-01-19T09:42:56.399Z'
+datePublished: '2017-01-19T09:43:12.402Z'
 hasPage: true
 sourcePath: _posts/2017-01-18-the-business-rainmaker.md
 starred: false
